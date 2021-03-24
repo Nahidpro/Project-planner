@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Use new images and different color pallete. Updated",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Add About page",
+      "details": "Insert preformatted text and new images",
+      "complete": true
+    },
+    {
+      "title": "Product DNA - assignement",
+      "details": "Update Footer\nConect front to django serv",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Vcars",
+      "details": "Design wireframe for the desktop homepage",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
